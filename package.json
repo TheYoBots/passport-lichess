@@ -1,27 +1,27 @@
 {
-  "name": "passport-lichess",
+  "name": "passport-lishogi",
   "version": "1.1.0",
-  "description": "Lichess authentication strategy for Passport.",
+  "description": "Lishogi authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "lichess",
-    "chess",
+    "lishogi",
+    "shogi",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Thibault Duplessis",
-    "email": "contact@lichess.org",
-    "url": "https://lichess.org/api"
+    "name": "Thibault Duplessis (TheYoBots for lishogi implementation)",
+    "email": "contact@lishogi.org",
+    "url": "https://lishogi.org/api"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/ornicar/passport-lichess.git"
+    "url": "http://github.com/TheYoBots/passport-lishogi.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-lichess/issues"
+    "url": "http://github.com/TheYoBots/passport-lishogi/issues"
   },
   "license": "MIT",
   "licenses": [
