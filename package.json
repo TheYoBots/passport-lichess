@@ -1,10 +1,10 @@
 {
-  "name": "passport-lishogi",
+  "name": "passport-lidraughts",
   "version": "1.2.0",
-  "description": "Lishogi authentication strategy for Passport.",
+  "description": "Lidraughts authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "lishogi",
+    "lidraughts",
     "shogi",
     "auth",
     "authn",
@@ -12,16 +12,16 @@
     "identity"
   ],
   "author": {
-    "name": "Thibault Duplessis (TheYoBots for lishogi implementation)",
-    "email": "contact@lishogi.org",
-    "url": "https://lishogi.org/api"
+    "name": "Thibault Duplessis (TheYoBots for lidraughts implementation)",
+    "email": "contact@lidraughts.org",
+    "url": "https://lidraughts.org/api"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/TheYoBots/passport-lishogi.git"
+    "url": "http://github.com/TheYoBots/passport-lidraughts.git"
   },
   "bugs": {
-    "url": "http://github.com/TheYoBots/passport-lishogi/issues"
+    "url": "http://github.com/TheYoBots/passport-lidraughts/issues"
   },
   "license": "MIT",
   "licenses": [
