@@ -1,11 +1,11 @@
 {
   "name": "passport-playstrategy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PlayStrategy authentication strategy for Passport.",
   "keywords": [
     "passport",
     "playstrategy",
-    "shogi",
+    "games",
     "auth",
     "authn",
     "authentication",
