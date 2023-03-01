@@ -1,6 +1,6 @@
 {
   "name": "passport-lidraughts",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Lidraughts authentication strategy for Passport.",
   "keywords": [
     "passport",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/TheYoBots/passport-lidraughts.git"
+    "url": "http://github.com/TheYoBots/passport-lishogi/tree/lidraughts"
   },
   "bugs": {
-    "url": "http://github.com/TheYoBots/passport-lidraughts/issues"
+    "url": "http://github.com/TheYoBots/passport-lishogi/issues"
   },
   "license": "MIT",
   "licenses": [
