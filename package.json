@@ -1,10 +1,10 @@
 {
-  "name": "passport-lishogi",
-  "version": "1.2.0",
-  "description": "Lishogi authentication strategy for Passport.",
+  "name": "passport-playstrategy",
+  "version": "1.0.0",
+  "description": "PlayStrategy authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "lishogi",
+    "playstrategy",
     "shogi",
     "auth",
     "authn",
@@ -12,13 +12,13 @@
     "identity"
   ],
   "author": {
-    "name": "Thibault Duplessis (TheYoBots for lishogi implementation)",
-    "email": "contact@lishogi.org",
-    "url": "https://lishogi.org/api"
+    "name": "Thibault Duplessis (TheYoBots for playstrategy implementation)",
+    "email": "contact@playstrategy.org",
+    "url": "https://playstrategy.org/api"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/TheYoBots/passport-lishogi.git"
+    "url": "http://github.com/TheYoBots/passport-lishogi/tree/playstrategy"
   },
   "bugs": {
     "url": "http://github.com/TheYoBots/passport-lishogi/issues"
