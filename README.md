@@ -1,8 +1,8 @@
 # passport-lishogi
 
-[*Based on passport-lishogi*](https://github.com/ornicar/passport-lishogi)
+[*Based on passport-lichess*](https://github.com/ornicar/passport-lichess)
 
-[![npm](https://img.shields.io/npm/v/passport-lishogi)](https://www.npmjs.com/package/passport-lishogi)
+[![npm](https://img.shields.io/npm/v/passport-shogi)](https://www.npmjs.com/package/passport-shogi)
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Lishogi](https://lishogi.org)
 using the OAuth 2.0 API.
@@ -16,7 +16,7 @@ unobtrusively integrated into any application or framework that supports
 ## Install
 
 ```bash
-$ npm install passport-lishogi
+$ npm install passport-shogi
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ Lishogi profile. The `verify` callback must call `cb` providing a user to
 complete authentication.
 
 ```js
-var LishogiStrategy = require('passport-lishogi').Strategy;
+var LishogiStrategy = require('passport-shogi').Strategy;
 
 passport.use(
   new LishogiStrategy(

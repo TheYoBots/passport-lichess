@@ -1,6 +1,6 @@
 {
-  "name": "passport-lishogi",
-  "version": "",
+  "name": "passport-shogi",
+  "version": "2.0.1",
   "description": "Lishogi authentication strategy for Passport.",
   "keywords": [
     "passport",
